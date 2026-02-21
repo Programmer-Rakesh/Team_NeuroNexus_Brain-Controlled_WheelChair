@@ -164,10 +164,6 @@ Wheelchair Movement
 
 ---
 
-<p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="650">
-</p>
-
 ### MVP Estimated Cost:
 ~₹30,000 (Affordable compared to high-end BCI systems)
 
