@@ -21,19 +21,14 @@ This system is designed to be:
 ## 📸 Project Visuals (Overall)
 
 <p align="center">
-  <img src="https://github.com/Programmer-Rakesh/Team_NeuroNexus_Brain-Controlled_WheelChair/blob/main/Media/WhatsApp%20Image%202026-02-21%20at%2010.22.51%20AM.jpeg" width="650">
-</p>
-
-
-<p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="650">
+  <img src="https://github.com/Programmer-Rakesh/Team_NeuroNexus_Brain-Controlled_WheelChair/blob/main/Media/WhatsApp%20Image%202026-02-21%20at%2010.22.51%20AM.jpeg" width="400">
 </p>
 
 <!-- IMAGE PLACEHOLDER – BCI SETUP + ELECTRODE PLACEMENT -->
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="320" height="240">
-  <img src="YOUR_IMAGE_LINK_HERE" width="320" height="240">
+  <img src="[YOUR_IMAGE_LINK_HERE](https://github.com/Programmer-Rakesh/Team_NeuroNexus_Brain-Controlled_WheelChair/blob/main/Media/WhatsApp%20Image%202026-02-21%20at%2010.22.51%20AM.jpeg)" width="320" height="240">
+  <img src="https://github.com/Programmer-Rakesh/Team_NeuroNexus_Brain-Controlled_WheelChair/blob/main/Media/WhatsApp%20Image%202026-02-21%20at%2010.22.52%20AM.jpeg" width="320" height="240">
 </p>
 
 ---
