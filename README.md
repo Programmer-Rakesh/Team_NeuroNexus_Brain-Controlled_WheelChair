@@ -164,10 +164,6 @@ Wheelchair Movement
 
 ---
 
-## 🧪 Prototype
-
-<!-- IMAGE PLACEHOLDER – PROTOTYPE DEMO IMAGE -->
-
 <p align="center">
   <img src="YOUR_IMAGE_LINK_HERE" width="650">
 </p>
@@ -241,13 +237,6 @@ Wheelchair Movement
 - Autonomous assist mode
 
 ---
-
-## 🎥 Demo & Testing Videos
-
-<!-- VIDEO PLACEHOLDER -->
-
-🔗 Demo Video Link:  
-`ADD YOUTUBE OR DRIVE LINK HERE`
 
 ---
 
