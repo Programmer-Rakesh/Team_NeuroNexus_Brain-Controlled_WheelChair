@@ -233,7 +233,3 @@ Wheelchair Movement
 - Autonomous assist mode
 
 ---
-
----
-
-## 📂 Repository Structure
